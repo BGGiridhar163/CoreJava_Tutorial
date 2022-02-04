@@ -1,0 +1,23 @@
+Introduction to Java :
+What is Java?
+Java is an Object Oriented Programming Language.
+
+Types of Applications.
+By Learning Java we can develop 4 different types of Applications.
+
+1) Standalone Application
+	Standalone applications are those applications which needs to installed on each & every machine.
+	Ex : Anti Virus,Media player
+	Tech stack : AWT(Abstract Window Tool Kit) & Swings
+2) Web Application
+	Exchange of Information between a client & a server is called Web Applicaion
+	Ex: Gmail, Twitter, Facebook
+	Tech Stack : Servlets, JSP, Spring, SpringBoot, microservices
+3) Enterprise Application
+	Enterprise Applications are similar to your web applications but they extra features (high security, loading balancing, clustering).
+	Ex; Internet Banking Application
+	Tech Stack : EJB(Enterprise Java Bean)
+4) Mobile Applicaion
+	Applicatinos that needs to be installed on mobiles is called Mobile Applicaion
+	Ex: Phone pay, Google pay, paytm, instagram, whats app
+	J2ME(Java2 Mobile Edition).
