@@ -1,0 +1,29 @@
+Features of Java
+1) Simple
+	Java is simple
+	They have removed many confusing from java like Pointers, operator overloading etc
+	They introduced a new feature called Garbage collector
+2) Platform Independent
+	Write once execute any no of times.
+3) OOPS (Object Oriented Programming System)
+	Object oriented programmins system is nothing but a methodology. By applying the methodology we make the maintanance or development of the project
+	easier.
+	i) class / Object
+	ii) Inheritance
+	iii) Polymorphism
+	iv) Encapsulation
+	v) Abstraction
+	
+	Object : An Object is nothing but an entity which physically exists in the world.
+		Object contains properties --> variable in java
+		Object performs actions --> methods in java
+		
+	class : A class is nothing but a blue print for creating an object.
+	
+4)Multi Threading:
+	A Thread is nothing but a separate path of execution.
+	We can run multiple programs at the same time by making use of multi threading
+	
+5) Robust :
+	Java is Robust as it has the capabulity to handle run time errors, and also it supports automatic garbage collection,
+	supports multi threading, exception handling.
